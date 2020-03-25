@@ -9,7 +9,7 @@ description: >-
   works? This article will walk you through its most frequently used components
   that are used to design and orchestrate omnichannel marketing campaigns.
   Before we get started, let's define what marketing cloud is. 
-featuredpost: true
+featuredpost: false
 featuredimage: /img/blog-hero-1440x600px.png
 tags:
   - Digital Strategy
