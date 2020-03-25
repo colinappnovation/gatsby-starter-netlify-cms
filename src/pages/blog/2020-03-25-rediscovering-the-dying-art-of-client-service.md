@@ -6,7 +6,7 @@ description: >-
   Jez Proctor, our UK Managing Director, wrote an article about how the
   consulting industry is changing, arguing that agencies need to strengthen
   their empathy for clients to counter the in-housing trend.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/blog-hero-1440x600_1.jpg
 tags:
   - Client Services
